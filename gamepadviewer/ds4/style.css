@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(assets/base.png) !important;
+    background: url(assets/base.png);
     height: 598px;
     width: 806px;
 }
